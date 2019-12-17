@@ -1,6 +1,6 @@
 # Tommy Wong
 
-![https://lp-cms-production.imgix.net/2019-06/65830387.jpg]
+![Image1](https://lp-cms-production.imgix.net/2019-06/65830387.jpg)
 
 Reference
 ## Welcome to GitHub Pages
