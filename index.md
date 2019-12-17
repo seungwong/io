@@ -1,6 +1,6 @@
 ![Sydney](https://media-cdn.tripadvisor.com/media/photo-c/1280x250/08/d8/b7/f1/sydney-opera-house-sydney.jpg)
 
-[My Intagram](https://www.instagram.com/seungwong/)
+[My Instagram](https://www.instagram.com/seungwong/)
 
 Reference
 ## Welcome to GitHub Pages
