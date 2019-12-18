@@ -2,6 +2,8 @@
 
 [My Instagram](https://www.instagram.com/seungwong/)
 
+[Readme](reader.md)
+
 Reference
 ## Welcome to GitHub Pages
 
